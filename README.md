@@ -29,11 +29,7 @@ This website design was inspired by this [https://github.com/soumyajit4419/Portf
   - `npm run deploy`
 
 ## Colors
-- main
-  - `#4B668C`
-- dark
-  - `#2D3D54`
-- light
-  - `#EDEFF3`
-- lighter
-  - `#A5B2C5`  
+- main    `#4B668C`
+- dark    `#2D3D54`
+- light   `#EDEFF3`
+- lighter `#A5B2C5`  
