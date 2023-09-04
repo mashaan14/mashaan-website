@@ -27,3 +27,13 @@ This website design was inspired by this [https://github.com/soumyajit4419/Portf
   - `git init`
   - `git remote add origin https://github.com/[your username]/[your repo name].git`
   - `npm run deploy`
+
+## Colors
+- main
+  - `#4B668C`
+- dark
+  - `#2D3D54`
+- light
+  - `#EDEFF3`
+- lighter
+  - `#A5B2C5`  
