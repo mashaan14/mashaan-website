@@ -1,0 +1,11 @@
+dark
+#2D3D54
+
+original
+#4B668C
+
+lighter
+#A5B2C5
+
+light
+#EDEFF3
