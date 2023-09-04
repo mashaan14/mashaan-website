@@ -6,7 +6,7 @@ This website design was inspired by this [repository](https://github.com/soumyaj
 
 1. Install [Node.js](https://nodejs.org/en) on your machine.
 
-1. Clone this repository on your local machine.
+1. Clone this repository to your local machine.
 
 2. Open the folder on VSCode and type `npm install` in the terminal to install the dependencies.
 
