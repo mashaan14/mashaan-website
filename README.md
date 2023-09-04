@@ -1,10 +1,10 @@
 ## Credit
-This website design was inspired by this [https://github.com/soumyajit4419/Portfolio](repository). Any credit should be directed there.
+This website design was inspired by this [repository](https://github.com/soumyajit4419/Portfolio). Any credit should be directed there.
 
 
 ## Installation
 
-1. Install [https://nodejs.org/en](Node.js) on your machine.
+1. Install [Node.js](https://nodejs.org/en) on your machine.
 
 1. Clone this repository on your local machine.
 
