@@ -15,10 +15,10 @@ This website design was inspired by this [repository](https://github.com/soumyaj
 
 ## Deploying the app on GitHub Pages
 
-1. copy this to the top of package.json:
+1. copy this to the top of `package.json`:
   - `"homepage": "https://mashaan14.github.io/testtest112233",`
 
-2. copy these commands to scripts in package.json:
+2. copy these commands to scripts in `package.json`:
   - `"predeploy": "npm run build",`
   - `"deploy": "gh-pages -d build"`
 
