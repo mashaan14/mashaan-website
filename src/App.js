@@ -11,7 +11,7 @@ import Teaching from "./components/Teaching/Teaching";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/Resume";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Navigate
