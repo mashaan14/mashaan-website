@@ -1,5 +1,3 @@
-https://github.com/mashaan14/mashaan-website/assets/61033787/b4d4b8fe-0b9f-402b-9e1d-cddeaa4b0942
-
 ![Picture](https://github.com/mashaan14/mashaan-website/assets/61033787/f2b7da91-17df-475b-b181-aa2877333e24)
 
 
