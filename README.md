@@ -34,7 +34,9 @@ This website design was inspired by this [repository](https://github.com/soumyaj
   - `npm run deploy`
 
 ## Colors
-- main    `#4B668C`
-- dark    `#2D3D54`
-- light   `#EDEFF3`
-- lighter `#A5B2C5`  
+|&nbsp;|HEX|
+| :--- | :---: |
+| main | `#4B668C` |
+| dark | `#2D3D54` |
+| light | `#EDEFF3` |
+| lighter | `#A5B2C5` |
