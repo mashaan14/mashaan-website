@@ -2,7 +2,7 @@
 
 
 ## Credit
-This website design was inspired by this [repository](https://github.com/soumyajit4419/Portfolio). Any credit should be directed there.
+The website design was inspired by this [repository](https://github.com/soumyajit4419/Portfolio). Any credit should be directed there.
 
 
 ## Installation
