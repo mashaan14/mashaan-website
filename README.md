@@ -20,7 +20,7 @@ The website design was inspired by this [repository](https://github.com/soumyaji
 
 ## Deploying the app on GitHub Pages
 
-1. copy this to the top of `package.json`:
+1. copy this line to the top of `package.json`:
   - `"homepage": "https://[your username].github.io/[your repo name]",`
 
 2. copy these commands to scripts in `package.json`:
