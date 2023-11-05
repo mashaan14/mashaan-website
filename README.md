@@ -15,7 +15,7 @@ This website design was inspired by this [repository](https://github.com/soumyaj
 
 4. Open the folder on VSCode and type `npm install` in the terminal to install the dependencies.
 
-5. Run `npm start` to start the app. It should open directly on your default browser. But if it didn't, you can find it on [http://localhost:3000](http://localhost:3000)
+5. Run `npm start` to start the app. It should open directly on your default browser. But if it didn't, you can launch it on [http://localhost:3000](http://localhost:3000)
 
 
 ## Deploying the app on GitHub Pages
