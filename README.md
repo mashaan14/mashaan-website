@@ -24,14 +24,14 @@ This website design was inspired by this [repository](https://github.com/soumyaj
       - `"homepage": "https://[your username].github.io/[your repo name]",`
 
 3. copy these commands to scripts in `package.json`:
-  - `"predeploy": "npm run build",`
-  - `"deploy": "gh-pages -d build"`
+     - `"predeploy": "npm run build",`
+     - `"deploy": "gh-pages -d build"`
 
 3. Run these commands from the terminal:
-  - `npm install gh-pages --save-dev`
-  - `git init`
-  - `git remote add origin https://github.com/[your username]/[your repo name].git`
-  - `npm run deploy`
+     - `npm install gh-pages --save-dev`
+     - `git init`
+     - `git remote add origin https://github.com/[your username]/[your repo name].git`
+     - `npm run deploy`
 
 ## Colors
 |&nbsp;|HEX|
