@@ -21,9 +21,9 @@ This website design was inspired by this [repository](https://github.com/soumyaj
 ## Deploying the app on GitHub Pages
 
 1. copy this line to the top of `package.json`:
-  - `"homepage": "https://[your username].github.io/[your repo name]",`
+      - `"homepage": "https://[your username].github.io/[your repo name]",`
 
-2. copy these commands to scripts in `package.json`:
+3. copy these commands to scripts in `package.json`:
   - `"predeploy": "npm run build",`
   - `"deploy": "gh-pages -d build"`
 
