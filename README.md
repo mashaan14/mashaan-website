@@ -22,6 +22,7 @@ This website design was inspired by this [repository](https://github.com/soumyaj
 
 1. copy this line to the top of `package.json`:
       - `"homepage": "https://[your username].github.io/[your repo name]",`
+      - in my case it's `"homepage": "https://mashaan14.github.io/mashaan",`
 
 3. copy these commands to scripts in `package.json`:
      - `"predeploy": "npm run build",`
