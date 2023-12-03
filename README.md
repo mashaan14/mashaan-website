@@ -9,7 +9,7 @@ This website design was inspired by this [repository](https://github.com/soumyaj
 
 1. Install [Node.js](https://nodejs.org/en) on your machine.
    
-2. If you are working on windows, add nodejs to your environment variables path. 
+2. If you are working on windows, add nodejs to your environment variables path. Follow [this answer](https://stackoverflow.com/a/27864253).
 
 3. Clone this repository to your local machine.
 
