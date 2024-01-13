@@ -1,6 +1,6 @@
 ![Picture](https://github.com/mashaan14/mashaan-website/assets/61033787/f2b7da91-17df-475b-b181-aa2877333e24)
 
-## :warning: Credit :warning:
+## :red_circle: Credit :red_circle:
 This website design was inspired by this [repository](https://github.com/soumyajit4419/Portfolio). Any credit should be directed there.
 
 ## Installation
