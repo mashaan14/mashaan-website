@@ -35,7 +35,7 @@ This website design was inspired by this [repository](https://github.com/soumyaj
 ## Colors
 |&nbsp;|HEX code|
 | :--- | :---: |
-| main | `#4B668C` |
-| dark | `#2D3D54` |
-| light | `#EDEFF3` |
-| lighter | `#A5B2C5` |
+| main blue | `#4B668C` |
+| dark blue | `#2D3D54` |
+| light blue | `#EDEFF3` |
+| lighter blue | `#A5B2C5` |
