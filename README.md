@@ -26,7 +26,7 @@ _**This website design was inspired by this [repository](https://github.com/soum
      - `"predeploy": "npm run build",`
      - `"deploy": "gh-pages -d build"`
 
-3. Run these commands from the terminal:
+3. run these commands from the terminal:
      - `npm install gh-pages --save-dev`
      - `git init`
      - `git remote add origin https://github.com/[your username]/[your repo name].git`
