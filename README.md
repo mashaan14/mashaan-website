@@ -33,7 +33,7 @@ _**This website design was inspired by this [repository](https://github.com/soum
      - `npm run deploy`
 
 ## Colors
-|&nbsp;|HEX code|
+|&nbsp;|*HEX code*|
 | :--- | :---: |
 | main blue | `#4B668C` |
 | dark blue | `#2D3D54` |
